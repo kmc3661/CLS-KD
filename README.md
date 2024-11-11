@@ -16,7 +16,6 @@ This paper utilizes the patch-level information and propose a fine-grained manif
 pytorch==1.8.0
 timm==0.5.4
 ```
-
 ### Data preparation
 
 Download and extract ImageNet train and val images from http://image-net.org/.
