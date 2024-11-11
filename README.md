@@ -52,7 +52,7 @@ To test a DeiT-Tiny student with a DeiT-Base teacher, run:
 
 ```shell
 python main.py --eval --output_dir <output-dir> --data-path <dataset-dir> --teacher-path <path-of-teacher-checkpoint> --model deit_tiny_patch16_224 --teacher-model deit_base_patch16_224 --distillation-type soft --distillation-alpha 1 --distillation-beta 1 --manifold --w-cls 1.0 --w-atn 2.0 --last-w 4.0 --K 192 --s-id 0 1 2 3 8 9 10 11 --t-id 0 1 2 3 8 9 10 11 --drop-path 0 --resume <path-of-distilled-model>
-
+```
 
 ### Result
 
