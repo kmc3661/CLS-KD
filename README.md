@@ -59,7 +59,7 @@ python main.py --eval --output_dir <output-dir> --data-path <dataset-dir> --teac
 | Teacher  | Student   | Acc@1 | Checkpoint & log                                             |
 | -------- | --------- | ----- | ------------------------------------------------------------ |
 | DeiT-Base | DeiT-Tiny | 75.1  | [checkpoint](https://github.com/kmc3661/cls-kd/releases/download/checkpoint/deit_base_to_tiny_75.1.pth) / [log](https://github.com/kmc3661/cls-kd/releases/download/checkpoint/deit_base_to_tiny_75.1.txt) |
-| DeiT-Base | DeiT-Small | 81.49  | [checkpoint](https://github.com/kmc3661/cls-kd/releases/download/checkpoint/deit_base_to_small_81.49.pth) / [log](https://github.com/kmc3661/cls-kd/releases/download/checkpoint/deit_base_to_tiny_81.49.txt) |
+| DeiT-Base | DeiT-Small | 81.49  | [checkpoint](https://github.com/kmc3661/cls-kd/releases/download/checkpoint/deit_base_to_small_81.49.pth) / [log](https://github.com/kmc3661/cls-kd/releases/download/checkpoint/deit_base_to_small_81.49.txt) |
 
 
 ## Citation
