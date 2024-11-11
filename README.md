@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This paper utilizes the patch-level information and propose a fine-grained manifold distillation method for transformer-based networks.
+We propose [CLS]-KD, an adaptive knowledge distillation method for vision transformers that leverages class tokens and CLS-patch attention maps to enhance performance.
 
 ![](figs/overview.png)
 
