@@ -81,3 +81,6 @@ publisher={Elsevier}
 ## Acknowledgment
 
 This repo is based on [DeiT](https://github.com/facebookresearch/deit), [manifold-distillation](https://github.com/Hao840/manifold-distillation) and [pytorch-image-models](https://github.com/rwightman/pytorch-image-models).
+
+## Contact
+Email : mc.kang@kaist.ac.kr
