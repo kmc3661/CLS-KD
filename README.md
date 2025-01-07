@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="e3JSJsAgG1u-mysw2yhpz_0Gjo4ZNfvAHZ6uySis6oM" />
 # Adaptive class token knowledge distillation for efficient vision transformer
 
 ## Implementation of the Knowledge-Based Systems 2024 paper: [Adaptive class token knowledge distillation for efficient vision transformer](https://www.sciencedirect.com/science/article/pii/S0950705124011651).
