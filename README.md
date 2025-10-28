@@ -1,7 +1,7 @@
 # Adaptive class token knowledge distillation for efficient vision transformer
 
 ## Implementation of the Knowledge-Based Systems 2024 paper: [Adaptive class token knowledge distillation for efficient vision transformer](https://www.sciencedirect.com/science/article/pii/S0950705124011651).
-
+DOI: [10.1016/j.knosys.2024.112531](https://doi.org/10.1016/j.knosys.2024.112531)
 ## Introduction
 
 We propose [CLS]-KD, an adaptive knowledge distillation method for vision transformers that leverages class tokens and CLS-patch attention maps to enhance performance.
@@ -84,3 +84,4 @@ This repo is based on [DeiT](https://github.com/facebookresearch/deit), [manifol
 
 ## Contact
 Email : mc.kang@kaist.ac.kr
+
